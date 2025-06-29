@@ -5,16 +5,23 @@ A C#-based desktop painting application that allows users to create and edit dra
 --- Features ---
 
 Drawing Tools: Pencil, eraser, rectangle, ellipse, and line tools.
+
 Color Picker: Customize brush colors.
+
 Fill Tool: Fill closed shapes with color.
+
 Clear Canvas: Start fresh with a single click.
+
 Save Artwork: Save drawings as JPEG images.
 
 --- How to Use ---
 
 Drawing: Select a tool (pencil, line, etc.) and start drawing on the canvas.
+
 Color: Choose a color from the palette or color picker.
+
 Eraser: Use the eraser tool to remove unwanted parts.
+
 Save: Save your artwork using the "Save" button.
 
 --- Requirements ---
