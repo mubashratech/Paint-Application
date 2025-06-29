@@ -26,6 +26,7 @@ Save: Save your artwork using the "Save" button.
 3) Visual Studio (for building or modifying the application)
 
 --- Images ---
+
 ![image](https://github.com/user-attachments/assets/9eb43203-e0c7-46ed-a4bf-578f9592d1a5)
 ![image](https://github.com/user-attachments/assets/76d84638-4df3-4ced-9799-647dee4c798f)
 ![image](https://github.com/user-attachments/assets/cb9b4bca-0b5c-4629-ae57-7c5fe54c505a)
